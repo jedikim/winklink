@@ -38,7 +38,7 @@ class _QRViewExampleState extends State<QRViewExample> {
   Widget build(BuildContext context) {
     final message =
     // ignore: lines_longer_than_80_chars
-        'Dami Jung 삼성폰 ★★☆';
+        'Jedi Kim 삼성폰 ★★☆';
     final qrFutureBuilder = FutureBuilder(
       //future: _loadOverlayImage(),
       builder: (ctx, snapshot) {
